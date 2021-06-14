@@ -24,7 +24,7 @@
     "@urql/devtools": "^2.0.3",
     "@urql/exchange-graphcache": "^4.0.0",
     "altair-fastify-plugin": "^4.0.0",
-    "argon2": "^0.27.1",
+    "argon2": "^0.28.2",
     "date-fns": "^2.19.0",
     "emoji-mart": "^3.0.1",
     "emoji-regex": "^9.2.1",
